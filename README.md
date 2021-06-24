@@ -3,3 +3,6 @@
 
 Hi, I’m Kita!
 I’m currently learning Javascript, MongoDB, Express.js, React.js and Node.js. I’m looking to collaborate on Javascript and MERN projects. You can reach me here on github. Peace! ✌🏽
+
+
+![chris-zhang-K2x0G8EfsSI-unsplash](https://user-images.githubusercontent.com/33188711/123334159-4d674400-d508-11eb-93e1-c20808243ae8.jpg)
