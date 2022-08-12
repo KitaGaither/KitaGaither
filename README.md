@@ -2,6 +2,11 @@
 
 
 🧜🏼‍♀️  Hi, I’m Kita!
-I’m currently learning Javascript, MongoDB, Express.js, React.js and Node.js. I’m looking to collaborate on Javascript and MERN projects. You can reach me here on github. Peace! ✌🏽
+
+Language toolbox:
+JavaScript(my favorite!)
+Java
+Python
+Peace! ✌🏽
 
 
