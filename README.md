@@ -3,10 +3,6 @@
 
 🧜🏼‍♀️  Hi, I’m Kita!
 
-Language toolbox:
-JavaScript(my favorite!)
-Java
-Python
-Peace! ✌🏽
+Language toolbox: JavaScript(my favorite!), Java, and Python. Peace! ✌🏽
 
 
