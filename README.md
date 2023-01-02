@@ -3,10 +3,10 @@
 
 🧜🏼‍♀️  Hi, I’m Kita!
 
-Language toolbox: \n
-Kotlin(Favorite)
-TypeScript
-JavaScript(2nd favorite!)
-Java(Least Favorite)
-Python
+Language toolbox: ||
+Kotlin(Favorite) ||
+TypeScript ||
+JavaScript(2nd favorite!) ||
+Java(Least Favorite) ||
+Python ||
 Peace! ✌🏽
