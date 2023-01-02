@@ -7,6 +7,6 @@ Language toolbox: ||
 Kotlin(Favorite) ||
 TypeScript ||
 JavaScript(2nd favorite!) ||
-Java(Least Favorite) ||
+Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
