@@ -3,6 +3,10 @@
 
 🧜🏼‍♀️  Hi, I’m Kita!
 
-Language toolbox: Kotlin, TypeScript, JavaScript(my favorite!), Java, and Python. Peace! ✌🏽
-
-
+Language toolbox: 
+Kotlin(Favorite)
+TypeScript
+JavaScript(2nd favorite!)
+Java(Least Favorite)
+Python
+Peace! ✌🏽
