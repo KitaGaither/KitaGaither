@@ -10,3 +10,5 @@ JavaScript(2nd favorite!) ||
 Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
+
+Today I struggled with my coding. I will do better tomorrow. 
