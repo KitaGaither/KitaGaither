@@ -11,4 +11,4 @@ Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
 
-Today I struggled with my coding. I will do better tomorrow. 
+Today I did better than yesterday. 
