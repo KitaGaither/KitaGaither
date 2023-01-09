@@ -11,4 +11,4 @@ Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
 
-Today I did better than yesterday. 
+1% Better everyday! 
