@@ -10,5 +10,4 @@ JavaScript(2nd favorite!) ||
 Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
-
-1% Better everyday! 
+One percent better everyday! 
