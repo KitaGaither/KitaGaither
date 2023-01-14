@@ -11,4 +11,4 @@ Java(Loatheeee) ||
 Python ||
 Peace! ✌🏽
 One percent better everyday! 
-Just keep swimming! 🐠
+Just keep swimming! 🐬
