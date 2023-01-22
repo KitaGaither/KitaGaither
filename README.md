@@ -3,11 +3,11 @@
 Hey y'all, I’m Kita!
 
 Language toolbox: ||
-Kotlin(Favorite) ||
-TypeScript ||
-JavaScript(2nd favorite!) ||
-Java(Loatheeee times 1000) ||
-Python ||
+Kotlin(Favorite)❤️ ||
+TypeScript 🤔||
+JavaScript(2nd favorite!) 😏||
+Java(Loatheeee times 1000) 😤||
+Python 🤤||
 Peace! ✌🏽
 
 My advice for new engineers:
