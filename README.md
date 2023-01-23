@@ -7,7 +7,7 @@ Kotlin(Favorite)❤️ ||
 TypeScript 🤔||
 JavaScript(2nd favorite!) 😏||
 Java(Loatheeee times 1000) 😤||
-Python 🤤||
+Python 🎉||
 Peace! ✌🏽
 
 My advice for new engineers:
