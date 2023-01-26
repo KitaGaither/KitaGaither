@@ -3,7 +3,7 @@
 Hey peeps, I’m Kita!
 
 Language toolbox: 🧰||
-Kotlin(Favorite)❤️ ||
+Kotlin(Favorite)💙 ||
 TypeScript 🤔||
 JavaScript(2nd favorite!) 😏||
 Java(Loatheeee times 1000) 😤||
