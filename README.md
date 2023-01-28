@@ -16,7 +16,7 @@ Singing
 Dancing 
 Trying new foods
 Astrology 
-Supernatural nomenclature 
+Supernatural books,documentaries and movies. 
 
 Advice: 🤔
 Stay curious
