@@ -2,7 +2,7 @@
 
 # Hey peeps, I’m Kita!
 
-Language Toolbox: 🧰 👇🏽
+## Language Toolbox: 🧰 👇🏽
 Kotlin(Favorite)💙 ||
 TypeScript 🤔||
 JavaScript(2nd favorite!) 😏||
@@ -10,7 +10,7 @@ Java(Loatheeee times 1000) 😤||
 Python 🎉||
 Peace! ✌🏽
 
-Hobbies 😜:
+## Hobbies 😜:
 Traveling
 Singing 
 Dancing 
@@ -18,7 +18,7 @@ Trying new foods
 Astrology 
 Supernatural books,documentaries and movies. 
 
-Advice: 🤔
+## Advice: 🤔
 Stay curious
 Become a voracious reader of anything to do with software engineering
 Be kind to yourself
