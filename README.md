@@ -1,4 +1,4 @@
-![IMG](https://media.licdn.com/dms/image/C4D16AQE0VsPIvSKjXw/profile-displaybackgroundimage-shrink_350_1400/0/1654303169171?e=1679529600&v=beta&t=ry45xfhtVJcNDcpOL_0KXzmE8TwT1VY1JUvAukArxxQ)
+![IMG]([https://media.licdn.com/dms/image/C4D16AQE0VsPIvSKjXw/profile-displaybackgroundimage-shrink_350_1400/0/1654303169171?e=1679529600&v=beta&t=ry45xfhtVJcNDcpOL_0KXzmE8TwT1VY1JUvAukArxxQ](https://www.canva.com/design/DAFZA9XQHh0/-dd15YmXj_PFRjkf0M7pWg/view?utm_content=DAFZA9XQHh0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 # Hey peeps, I’m Kita!
 
