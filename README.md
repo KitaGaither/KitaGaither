@@ -11,17 +11,17 @@ Python 🎉||
 Peace! ✌🏽
 
 ## Hobbies 😜:
-Traveling
-Singing 
-Dancing 
-Trying new foods
-Astrology 
-Supernatural books,documentaries and movies. 
+Traveling,
+Singing, 
+Dancing, 
+Trying new foods,
+Astrology, 
+and Supernatural books,documentaries and movies. 
 
 ## Advice: 🤔
-Stay curious
-Become a voracious reader of anything to do with software engineering
-Be kind to yourself
-Take baby steps
-One percent better everyday! 
+Stay curious ||
+Become a voracious reader of anything to do with software engineering ||
+Be kind to yourself ||
+Take baby steps ||
+One percent better everyday! ||
 Just keep swimming! 🐠🦈🐟
