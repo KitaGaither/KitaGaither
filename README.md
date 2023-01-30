@@ -10,7 +10,7 @@ Java(Loatheeee times 1000) 😤||
 Python 🎉||
 Peace! ✌🏽
 
-## Advice 🤔
+## Advice 
 Stay curious ||
 Become a voracious reader of anything to do with software engineering ||
 Be kind to yourself ||
@@ -18,7 +18,7 @@ Take baby steps ||
 One percent better everyday! ||
 Just keep swimming! 🐠🦈🐟
 
-## Hobbies 😜
+## Hobbies 
 Traveling,
 Singing, 
 Dancing, 
