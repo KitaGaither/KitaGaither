@@ -1,6 +1,6 @@
 ![IMG](https://media.licdn.com/dms/image/D4E16AQGLqxJbF-_ycA/profile-displaybackgroundimage-shrink_350_1400/0/1674971208308?e=1680739200&v=beta&t=6Sz22LG_MPPhI1u8txAY11xeiFhd4yELgaRQtTM-fiw)
 
-# Hey peeps, I’m Kita!
+# Hey Y'all, I’m Kita!
 
 ## Language Toolbox 🧰 👇🏽
 Kotlin(Favorite)💙 ||
