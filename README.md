@@ -24,6 +24,9 @@ Singing,
 Dancing, 
 Trying new foods,
 Astrology, 
-& Supernatural books, documentaries and movies. 
+& Supernatural books, documentaries and movies.
+
+-Kita Gaither 
+Software Engineer  
 
 
