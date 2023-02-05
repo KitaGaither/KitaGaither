@@ -2,7 +2,7 @@
 
 # Hey Y'all, I’m Kita!
 
-## Language Toolbox 🧰 👇🏽
+## Language Toolbox 🧰 
 Kotlin(Favorite)💙 ||
 TypeScript 🤔||
 JavaScript(2nd favorite!) 😏||
