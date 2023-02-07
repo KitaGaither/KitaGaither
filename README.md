@@ -28,6 +28,6 @@ Astrology,
 
 -Kita Gaither 
 Software Engineer  
-😭
+💪🏾
 
 
