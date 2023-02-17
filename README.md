@@ -18,7 +18,7 @@ Take baby steps ||
 One percent better everyday! ||
 Just keep swimming!
 
-## Hobbies 🛼
+## Hobbies 🛼 🔮 👻 👽
 Traveling,
 Singing, 
 Dancing, 
